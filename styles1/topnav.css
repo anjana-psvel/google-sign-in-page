@@ -1,0 +1,101 @@
+.centre {
+    width: 395px;
+    height:480px;
+    border: 1.2px solid lightgray;
+    padding: 30px;
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 8px;
+    align-items:center;
+    margin-bottom: 10px;
+  }
+  .google{
+    height:27px;
+    margin-top:20px;
+    margin-left:170px;
+  }
+  .choose{
+    padding:10px;
+    margin-left:90px;
+    font-size:23px;
+    font-family:Poppins, Arial;
+    font-weight: 550;
+    margin-bottom: 10px;
+  }
+  .accounts{
+    display: flex;
+    padding-bottom: 10px;
+    padding-top:15px;
+    border-bottom:1px solid lightgrey;
+    
+  }
+  .accounts:hover{
+    background-color: rgb(199, 218, 224);
+    cursor: pointer;
+    margin-top:0px;
+  }
+  .pfp{
+    margin-left: 20px;
+    height:30px;
+    width:30px;
+    border-radius:30px;
+    margin-top: 2px;
+  }
+  .pfp-setting{
+    margin-left: 20px;
+    height:25px;
+    width:25px;
+    border-radius:30px;
+    margin-top: 2px;
+    opacity: 0.68;
+    margin-bottom: 5px; 
+  }
+  .acc_name{
+    margin-left:13px;
+    font-family: poppins,Arial;
+    font-size: small;
+    font-weight: 600;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+    opacity:0.85;
+  }
+  .signed-out{
+    font-family: Arial;
+    font-size: 13px;
+    color: rgb(131, 130, 130);
+    font-weight: 500;
+    margin-bottom: 0px;
+    display:inline-flex;
+    margin-top: 0px;
+  }
+  
+  .gmail{
+    font-family: Arial;
+    font-size: 12px;
+    margin-left:13px;
+    color: rgb(131, 130, 130);
+    font-weight: 500;
+    margin-top:0px;
+  }
+  .bottom{
+    display:inline-block;
+    margin-left:405px;
+    margin-top:13px;
+    font-family: Arial;
+    font-size: 12px;
+    color: rgb(136, 130, 130);
+    font-weight: 500;
+  }
+  .bottom-left{
+    display: flex;
+    width:1fr 1fr 1fr;
+    margin-top:18px;
+    font-family: Arial;
+    font-size: 12px;
+    color: rgb(136, 130, 130);
+    font-weight: 500;
+  }
+
+
+  
